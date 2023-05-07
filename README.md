@@ -1,3 +1,1 @@
 - 👋 Hi, I’m Ghazi Al Yaman
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning React and React Native
