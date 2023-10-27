@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ghazi</h1>
-- 👨‍💻 All of my projects are available at [https://ghaziyaman.github.io/portfolio/](https://ghaziyaman.github.io/portfolio/)
+<p>- 👨‍💻 All of my projects are available on <a target="_blank" href="https://ghaziyaman.github.io/portfolio/">my portfolio </a></p>
 
-- 📫 How to reach me **alyaman.ghazi@gmail.com**
+<p>- 📫 How to reach me **alyaman.ghazi@gmail.com**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
